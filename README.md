@@ -161,9 +161,9 @@ https://max-everyday.com/2020/09/swei-gospel-leg/
 * 獅尾福音黑體 Swei Gospel Sans
 https://max-everyday.com/2020/09/swei-gospel-sans/
 * 獅尾D滷腿黑體 Swei Del Luna Leg
-https://max-everyday.com/2020/09/swei-right-bottom-leg/
+https://max-everyday.com/2020/09/swei-del-luna-leg/
 * 獅尾德魯納黑體 Swei Del Luna Sans
-https://max-everyday.com/2020/09/swei-right-bottom-leg/
+https://max-everyday.com/2020/09/swei-del-luna-sans/
 * 獅尾彎腿黑體 Swei Curve Leg
 https://max-everyday.com/2020/09/swei-curve-leg/
 * 獅尾彎黑體 Swei Curve Sans
